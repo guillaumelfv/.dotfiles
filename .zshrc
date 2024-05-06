@@ -78,6 +78,7 @@ plugins=(
     dirhistory
     z
     rust
+    zsh-eza
 )
 
 source $ZSH/oh-my-zsh.sh
